@@ -1,7 +1,5 @@
 FROM httpd:2.4
 
-COPY server.crt server.key /usr/local/apache2/conf/
-COPY ca.crt /usr/local/apache2/conf/ssl.crt/ca-bundle.crt
 COPY httpd.conf /usr/local/apache2/conf/
 COPY httpd-ssl.conf /usr/local/apache2/conf/extra/
 
