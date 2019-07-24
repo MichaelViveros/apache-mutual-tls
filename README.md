@@ -4,7 +4,7 @@ https://cloud.docker.com/repository/docker/mviveros/apache-mutual-tls/
 
 This image contains an Apache server configured with Mutual TLS which will allow your server to do client authentication in addition to server authentication.
 
-[![Docker Pulls](https://img.shields.io/docker/pulls/mviveros/apache-mutual-tls.svg)](https://hub.docker.com/r/andreburgaud/nginx-cert-auth/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/mviveros/apache-mutual-tls.svg)](https://hub.docker.com/r/mviveros/apache-mutual-tls)
 
 
 ## Setup
